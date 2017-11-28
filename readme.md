@@ -54,8 +54,6 @@ A URI (i.e `https://example.com`) where the link will point to. This is equivale
 
 #### params
 
-##### foo
-
 Type: `Object`<br>
 *Optional*
 
