@@ -61,7 +61,7 @@ A collection of key value pairs, that will be printed as hidden `params`. There'
 
 ## Related
 
-  * [`hyperlinker`](https://github.com/jamestalmage/hyperlinker): Write hyperlinks in the terminal.
+  * [`supports-hyperlinks`](https://github.com/jamestalmage/supports-hyperlinks): Detect hyperlink support for the running terminal.
 
 
 ## License
