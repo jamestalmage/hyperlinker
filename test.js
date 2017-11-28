@@ -10,5 +10,5 @@ test('with id', t => {
 });
 
 test('with multiple params', t => {
-	t.is(m('foo', 'example.com', {id: '3', bar:'baz'}), '\u001B]8;id=3:bar=baz;example.com\u0007foo\u001B]8;;\u0007');
+	t.is(m('foo', 'example.com', {id: '3', bar: 'baz'}), '\u001B]8;id=3:bar=baz;example.com\u0007foo\u001B]8;;\u0007');
 });
