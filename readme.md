@@ -59,6 +59,10 @@ Type: `Object`<br>
 
 A collection of key value pairs, that will be printed as hidden `params`. There's not a lot of use for these right now, except for maybe [an id param](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda#hover-underlining-and-the-id-parameter). It is intended to allow extension of the spec in the future.
 
+## Related
+
+  * [`hyperlinker`](https://github.com/jamestalmage/hyperlinker): Write hyperlinks in the terminal.
+
 
 ## License
 
