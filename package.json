@@ -1,6 +1,6 @@
 {
     "name": "hyperlinker",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Write hyperlinks in the terminal.",
     "license": "MIT",
     "repository": "jamestalmage/hyperlinker",
